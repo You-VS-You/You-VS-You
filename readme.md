@@ -9,3 +9,5 @@ How It Works:
 	•	Minimalist, Distraction-Free Interface – No unnecessary features, no endless scrolling. Answer, commit, and get back to work.
 	•	No Habit Tracking – Just Discipline – No streaks, no rewards, no “progress bars.” Either you step up, or you don’t.
 	•	Instant Feedback – Weak responses will be called out. Strong responses push you further. You can lie to yourself, but this app won’t let you.
+
+Visit [You VS You](https://you-vs-you.com).
